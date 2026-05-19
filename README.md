@@ -1,20 +1,50 @@
 <div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+
+<img src="./assets/chi-logo.png" width="180" alt="CHI Mission Control Logo" />
+
+# ✦ MISSION CONTROL ✦
+
+### A Next-Generation Student Portal Concept for CHI
+
+> *"Built like a digital flight deck for modern academic warfare."*
+
+[![Status](https://img.shields.io/badge/STATUS-CONCEPTUAL-success?style=for-the-badge)](#)
+[![Design](https://img.shields.io/badge/DESIGN-MATERIAL%20YOU-8b5cf6?style=for-the-badge)](#)
+[![Theme](https://img.shields.io/badge/THEME-GLASSMORPHISM-ec4899?style=for-the-badge)](#)
+[![Mode](https://img.shields.io/badge/UI-DARK%20MODE-black?style=for-the-badge)](#)
+
+---
+
+### ⚡ Reimagining the Academic Experience
+
+Mission Control transforms the traditional university portal into a cinematic, immersive command center designed specifically for students of **CHI — Cairo Higher Institute**.
+
+Instead of overwhelming users with outdated layouts and chaotic navigation, the platform introduces a **high-performance academic cockpit** focused on:
+
+🧠 Reduced Cognitive Load  
+🚀 Fast Information Retrieval  
+🌌 Modern Visual Identity  
+📊 Real-Time Academic Awareness  
+🎯 Productivity-Driven Interaction  
+
 </div>
 
-# Run and deploy your AI Studio app
+---
 
-This contains everything you need to run your app locally.
+# ✦ DESIGN PHILOSOPHY
 
-View your app in AI Studio: https://ai.studio/apps/fd2da15a-a001-40b2-9045-d41d6f74da0e
+Mission Control merges the structured intelligence of **Material Design 3** with the futuristic elegance of **Glassmorphism**.
 
-## Run Locally
+The result is a UI system that feels tactical, premium, and alive.
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+```txt
+┌──────────────────────────────────────────────┐
+│ SYSTEM DESIGN LANGUAGE                      │
+├──────────────────────────────────────────────┤
+│ ▸ Material You Components                   │
+│ ▸ Frosted Glass UI Layers                   │
+│ ▸ Adaptive Glow Accents                     │
+│ ▸ Tactical Status Indicators                │
+│ ▸ Motion-Based Feedback                     │
+│ ▸ Density-Aware Layout System               │
+└──────────────────────────────────────────────┘
