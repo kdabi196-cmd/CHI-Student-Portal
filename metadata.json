@@ -1,0 +1,6 @@
+{
+  "name": "CHI Student Portal",
+  "description": "A modern, interactive academic platform for Cairo Higher Institution students with parallax effects and offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
