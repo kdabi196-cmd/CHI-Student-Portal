@@ -4,35 +4,27 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=FF4D8D&center=true&vCenter=true&width=1000&lines=MISSION+CONTROL;CHI+STUDENT+PORTAL+CONCEPT;designed+for+the+next+generation+✦"/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=38&pause=1000&color=FF77B7&center=true&vCenter=true&width=1000&lines=MISSION+CONTROL;CHI+STUDENT+PORTAL+CONCEPT;made+for+dreamers+%E2%9C%A6+students+%E2%9C%A6+late+night+survivors"/>
 
 <br>
 
-<img src="https://img.shields.io/badge/OBSIDIAN_UI-0f0f0f?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/GLASSMORPHISM-ff4d8d?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/MATERIAL_YOU-7c4dff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/CINEMATIC_EXPERIENCE-00d4ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OBSIDIAN_UI-111111?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GLASSMORPHISM-ff77b7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MATERIAL_YOU-9b6dff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/CINEMATIC_EXPERIENCE-7be7ff?style=for-the-badge"/>
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:ff4d8d,50:7c4dff,100:00d4ff&text=MISSION%20CONTROL&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:ff77b7,50:9b6dff,100:7be7ff&text=MISSION%20CONTROL&fontSize=62&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 
-</div>
+<br><br>
 
----
-
-<div align="center">
-
-# 🌌 welcome to mission control .ᐟ
-
-### *a futuristic student portal concept for chi*
-
-<br>
+### 🌌 *a student portal designed to feel comforting, modern, and alive*
 
 ₊˚⊹♡  
-built for students who stay awake at 3am finishing assignments  
-who memorize lectures with coffee beside them  
-who deserve something beautiful instead of outdated portals  
+for students pulling all-nighters  
+for the ones trying their best  
+for stressed minds and ambitious hearts  
 ♡⊹˚₊
 
 </div>
@@ -48,12 +40,12 @@ who deserve something beautiful instead of outdated portals
 │                                              │
 │      ◉ mission control initializing...       │
 │                                              │
-│      syncing academic systems                │
-│      restoring student session               │
-│      loading assignments                     │
-│      checking deadlines                      │
+│      syncing lectures                        │
+│      restoring focus                         │
+│      checking assignments                    │
+│      preparing student environment           │
 │                                              │
-│      status :: ONLINE                        │
+│      status :: READY                         │
 │                                              │
 └──────────────────────────────────────────────┘
 ```
@@ -64,17 +56,44 @@ who deserve something beautiful instead of outdated portals
 
 ---
 
-# ✦ aesthetic philosophy
+# ✦ what is mission control?
 
 <div align="center">
 
-### mission control was designed to *feel* something.
+### a futuristic academic experience for chi students ✨
 
-not cold.  
-not corporate.  
-not exhausting.  
+</div>
 
-but cinematic. immersive. soft. intelligent. alive.
+traditional portals often feel:
+```diff
+- overwhelming
+- outdated
+- chaotic
+- visually exhausting
+```
+
+mission control reimagines the student experience into something:
+```diff
++ calming
++ immersive
++ aesthetic
++ fast
++ supportive
++ beautifully organized
+```
+
+<br>
+
+> “students already deal with enough pressure.  
+> their digital environment should help them breathe, focus, and feel comfortable.”
+
+---
+
+# 🌷 aesthetic philosophy
+
+<div align="center">
+
+### mission control was designed to feel soft, intelligent, and cinematic.
 
 </div>
 
@@ -85,25 +104,25 @@ but cinematic. immersive. soft. intelligent. alive.
 
 <td width="33%" align="center">
 
-## 🌑 obsidian surfaces
+## 🌑 obsidian atmosphere
 
-deep dark interfaces designed for long study sessions and reduced eye strain.
-
-</td>
-
-<td width="33%" align="center">
-
-## 🧊 glass layers
-
-soft translucent cards with frosted blur and glowing depth.
+deep dark surfaces designed for long study nights and reduced eye strain.
 
 </td>
 
 <td width="33%" align="center">
 
-## ✨ tactical accents
+## 🧊 frosted glass layers
 
-neon indicators and subtle motion that guide focus naturally.
+soft translucent panels with dreamy blur and glowing depth.
+
+</td>
+
+<td width="33%" align="center">
+
+## ✨ comforting details
+
+tiny accents, glowing indicators, and smooth motion that make everything feel alive.
 
 </td>
 
@@ -118,7 +137,7 @@ neon indicators and subtle motion that guide focus naturally.
 
 # ⋆｡°✩ dashboard ✩°｡⋆
 
-### *your academic command bridge*
+### *your academic comfort zone*
 
 </div>
 
@@ -127,8 +146,8 @@ neon indicators and subtle motion that guide focus naturally.
 ```yaml
 dashboard:
   - gpa metrics
-  - smart notifications
   - attendance overview
+  - smart reminders
   - upcoming deadlines
   - quick access widgets
 ```
@@ -143,16 +162,16 @@ dashboard:
 │ GPA              3.84        │
 │ Attendance       92%         │
 │ Deadlines        04          │
-│ Alerts           02          │
+│ Notifications    02          │
 │                              │
 ╰──────────────────────────────╯
 ```
 
 </div>
 
-<br><br>
+<br>
 
-> “everything important should be visible in a single glance.”
+> “everything important should be visible in a single peaceful glance.”
 
 ---
 
@@ -168,18 +187,18 @@ dashboard:
 
 | status | meaning |
 |---|---|
-| 🟡 `PENDING` | awaiting submission |
-| 🔵 `SUBMITTED` | uploaded successfully |
-| 🟢 `GRADED` | mission complete |
+| 🌙 `PENDING` | waiting for submission |
+| 💫 `SUBMITTED` | uploaded successfully |
+| 🌷 `GRADED` | completed and reviewed |
 
 <br>
 
 ```diff
-+ minimal distraction workflow
-+ intelligent status hierarchy
-+ rapid assignment tracking
-+ clean linear navigation
-+ smooth interaction feedback
++ smooth assignment workflow
++ calming visual hierarchy
++ intelligent status tracking
++ distraction-free navigation
++ elegant interaction feedback
 ```
 
 ---
@@ -190,7 +209,7 @@ dashboard:
 
 # ☄️ curriculum catalogue
 
-### *knowledge navigation system*
+### *your organized knowledge space*
 
 </div>
 
@@ -214,10 +233,10 @@ artificial intelligence
 ### ✨ features
 
 - nested lecture navigation  
-- seamless course browsing  
+- clean course browsing  
 - progress tracking  
+- seamless lecture access  
 - elegant side drawer system  
-- clean streaming interface  
 
 ---
 
@@ -227,22 +246,23 @@ artificial intelligence
 
 # ⚡ blitz center
 
-### *rapid study & quiz environment*
+### *rapid revision environment*
 
 </div>
 
 <br>
 
 built for:
-- fast revision loops
-- timed quiz sessions
-- midterm preparation
-- concept reinforcement
+- late-night revision sessions 🌙
+- fast quiz preparation ⚡
+- concept reinforcement 🧠
+- focused studying 🎧
 
 <br>
 
 ```txt
 focus mode enabled . . .
+you got this ✨
 ```
 
 ---
@@ -253,7 +273,7 @@ focus mode enabled . . .
 
 # ⚙️ system config
 
-### *personalize your environment*
+### *make the experience yours*
 
 </div>
 
@@ -264,7 +284,7 @@ settings:
   - animation acceleration
   - layout density
   - accessibility controls
-  - active device sessions
+  - active sessions
   - notification routing
   - performance optimization
 ```
@@ -273,17 +293,17 @@ settings:
 
 <br><br>
 
-# ✦ experience goals
+# 🌌 experience goals
 
 <div align="center">
 
-| ✨ goal | 🌌 impact |
+| ✨ goal | 💫 impact |
 |---|---|
-| faster navigation | less wasted time |
+| faster navigation | less stress |
 | lower cognitive load | better concentration |
-| cinematic ux | immersive workflow |
-| eye-friendly design | comfortable night usage |
-| better hierarchy | faster understanding |
+| cinematic ui | more immersion |
+| eye-friendly design | comfortable studying |
+| cleaner hierarchy | faster understanding |
 
 </div>
 
@@ -295,12 +315,13 @@ settings:
 
 # ₊˚⊹♡ built for students ♡⊹˚₊
 
-### students who:
-study late.  
-panic before deadlines.  
-drink coffee during quizzes.  
-open 17 tabs at once.  
-need clarity, not chaos.
+### for the students who:
+
+stay awake finishing projects ☕  
+panic before deadlines 📚  
+open too many tabs at once 🌙  
+try their best every single day ✨  
+and deserve something better than boring portals 💫  
 
 </div>
 
@@ -314,8 +335,8 @@ need clarity, not chaos.
 + ai academic assistant
 + predictive gpa analytics
 + smart study recommendations
-+ voice navigation
 + collaborative workspaces
++ voice navigation
 + cross-platform synchronization
 ```
 
@@ -325,18 +346,22 @@ need clarity, not chaos.
 
 <div align="center">
 
-# 🌌 chi — cairo higher institute
+# 🌷 chi — cairo higher institute
 
 ### *mission control interface prototype*
 
 <br>
 
-✦ crafted with vision  
+✦ crafted with care  
 ✦ designed with atmosphere  
 ✦ built for modern students  
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=footer&color=0:00d4ff,50:7c4dff,100:ff4d8d"/>
+### ✨ “academic systems should feel inspiring, not exhausting.”
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&section=footer&color=0:7be7ff,50:9b6dff,100:ff77b7"/>
 
 </div>
